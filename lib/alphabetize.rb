@@ -1,6 +1,6 @@
 def alphabetize(arr)
 
-  arr.sort
+  a = arr.sort
   
   
 end
