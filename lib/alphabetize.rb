@@ -1,9 +1,4 @@
-class String
-  def initialize(name,author)
-    @name = name
-    @author = author
-  end
-end
+
 
 
 def alphabetize(sentences_array)
